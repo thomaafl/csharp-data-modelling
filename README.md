@@ -1,4 +1,3 @@
-# csharp-data-modelling
 
 # C# Data Modelling Exercise
 
